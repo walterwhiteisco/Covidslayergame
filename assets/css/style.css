@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+#login{
+	background-color: rgb(80 144 189);
+	height:100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+#register-form {
+  padding: 20px;
+}
+.headerMain{
+	background: rgb(80 144 189);
+}
+.headerChild{
+	height: 100px;
+    line-height: 100px;
+}
+.welcomeText{
+	color: #ffffff;
+}
+.logout{
+	margin-left: 85%;
+}
+.actionButton{
+	background: #50bd81;
+    color: #ffffff;
+	text-decoration: none;
+}
+.actionButton:hover{
+    color: #ffffff;
+	text-decoration: none;
+}
+.mainDiv{
+	margin-top:15%;
+}
+.progress{
+	width: 50%;
+    margin-left: 25%;
+}
+.countdown{
+	color : #000000;
+	font-weight : 700;
+}
+.dragonimg{
+	width: 360px;
+}
+.playerimg{
+	background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	width: 220px;
+    height: 220px;
+}
+.commentarybox{
+	border: 3px solid #5090bd;
+}
